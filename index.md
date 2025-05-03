@@ -21,12 +21,21 @@ Welcome to my phishing email analysis lab for **Day #22** of the SOC Challenge.
 | ![](./images/3_suspicious_link.png)| Phishing URL scan |
 | ![](./images/4_email_body_preview.png) | HTML email content spoofing |
 
+## 🔧 Tools Used
+
+- [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
+- [VirusTotal](https://www.virustotal.com/)
+- [AbuseIPDB](https://abuseipdb.com/)
+- [urlscan.io](https://urlscan.io/)
+- MXToolbox (Email Header Analyzer)
+
 ## 📁 Download Report
 
 [📄 View full report (report.md)](./report.md)
 
 ---
 
-_This lab was created as part of my cybersecurity training and GitHub portfolio._
+_This GitHub Pages site was built for educational and portfolio use as part of my cybersecurity journey._  
+🎓 **@BecomingCyber**
 
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BecomingCyber/phishing-lab-day22.git) [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozella-mccoy-flowers/)
